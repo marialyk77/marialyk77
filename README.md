@@ -13,8 +13,8 @@
   -  I took online courses on Data Analytics to develop proficiency in essential hard skills such as SQL, R programming, Tableau, and Power BI.
   -  And private courses with Alexandra Athanasakou (Businnes Intelligence Developer).
 -  ❗ I have completed:
-  -  The Google Data Analytics Professional Certificate
-  -  DataCamp related to SQL certificates.
+    -  The Google Data Analytics Professional Certificate
+    -  DataCamp related to SQL certificates.
 - ✨ Additionally:
   -  I follow Chris Haroun's MBA program to enhance my understanding and ability to interpret complex business questions: https://harouneducationventures.com/.
 
