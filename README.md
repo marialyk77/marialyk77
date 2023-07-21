@@ -15,7 +15,7 @@
 -  ❗ I have completed:
   -  The Google Data Analytics Professional Certificate
   -  DataCamp related to SQL certificates.
--  Additionally:
+- ✨ Additionally:
   -  I follow Chris Haroun's MBA program to enhance my understanding and ability to interpret complex business questions: https://harouneducationventures.com/.
 
 - 😄 I’m looking to Connect with professionals in the data analytics.
