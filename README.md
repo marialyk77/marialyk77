@@ -1,4 +1,4 @@
-- 🎵 Hi, I’m @marialyk77
+- 🎵 Hi, My name is Maria Lykoudi. 
 - 💥 My background is on scientific Archaeology.
 - 💓 I’m passionate about Data Analytics.
 - 👀 My background in archaeology equipped me with:
