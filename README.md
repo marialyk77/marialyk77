@@ -8,13 +8,19 @@
   -  D. fairness in avoiding biases
   -  E. in-depth knowledge of statistics
   -  F. proficient presentation skills.
+    
+- 🛠️ Tools used:
+  - A. Excel
+  - B. Access
+  - c. Power Point 
 - ⭐ Having this background:
-  -  I decided to transition my career to Data Analytics, where I could leverage my diverse skill set to analyze data, derive valuable insights, and make informed decisions that positively impact the world.
-  -  I took online courses on Data Analytics to develop proficiency in essential hard skills such as SQL, R programming, Tableau, and Power BI.
+  -  I decided to transition my career to Data Analytics, where I could leverage my diverse skill set to analyze data, derive valuable insights, and make informed decisions that positively impact businesses..
+  -  I took online courses on Data Analytics to develop proficiency in essential hard skills such as Python, SQL, R programming, Tableau, and Power BI.
   -  And private courses with Alexandra Athanasakou (Businnes Intelligence Developer).
 -  ❗ I have completed:
-    -  The Google Data Analytics Professional Certificate
+    -  The Google Data Analytics Professional Certificate from Udemy. 
     -  DataCamp related to SQL certificates.
+    -  Python courses from the Analyst Builder Platform: https://www.analystbuilder.com/
 - ✨ Additionally:
   -  I follow Chris Haroun's MBA program to enhance my understanding and ability to interpret complex business questions: https://harouneducationventures.com/.
 
