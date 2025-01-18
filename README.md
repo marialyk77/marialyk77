@@ -17,27 +17,27 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 
 ### Programming Languages  
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="assets/python-logo.png" alt="Python" height="80">
-  <img src="assets/r-logo.png" alt="R" height="80">
-  <img src="assets/sql-logo.png" alt="SQL" height="80">
+  <img src="assets/python-logo.png" alt="Python" height="70">
+  <img src="assets/r-logo.png" alt="R" height="70">
+  <img src="assets/sql-logo.png" alt="SQL" height="70">
 </div>
 
 ### Data Visualization  
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="assets/powerbi-logo2.png" alt="Power BI" height="90">
+  <img src="assets/powerbi-logo2.png" alt="Power BI" height="70">
 </div>
 
 ### Databases  
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="assets/Mysql.png" alt="MySQL" height="80">
-  <img src="assets/sqlserver-logo.png" alt="SQL Server" height="80">
+  <img src="assets/Mysql.png" alt="MySQL" height="70">
+  <img src="assets/sqlserver-logo.png" alt="SQL Server" height="70">
 </div>
 
 ### Other Tools  
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="assets/excel-logo.png" alt="Excel" height="80">
-  <img src="assets/google sheets-logo.png" alt="Google Sheets" height="80">
-  <img src="assets/access-logo.png" alt="Access" height="80">
+  <img src="assets/excel-logo.png" alt="Excel" height="70">
+  <img src="assets/google sheets-logo.png" alt="Google Sheets" height="70">
+  <img src="assets/access-logo.png" alt="Access" height="70">
 </div>
 
 
