@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 ### Other Tools  
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <img src="assets/excel-logo.png" alt="Excel" height="70">
-  <img src="assets/google sheets-logo.png" alt="Google Sheets" height="70">
+  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" height="70">
   <img src="assets/access-logo.png" alt="Access" height="70">
 </div>
 
