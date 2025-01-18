@@ -16,28 +16,26 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** transitioning from a
 ## 🌟 Skills & Tools
 
 ### Programming Languages  
-<img src="assets/python-logo.png" alt="Python" height="100">            
+<img src="assets/python-logo.png" alt="Python" height="80">            
 
-<img src="assets/r-logo.png" alt="R" height="100">              
+<img src="assets/r-logo.png" alt="R" height="80">              
 
-<img src="assets/sql-logo.png" alt="SQL" height="100">
+<img src="assets/sql-logo.png" alt="SQL" height="80">
 
 
 
 ### Data Visualization  
-<img src="assets/powerbi-logo2.png" alt="Power BI" height="100">
+<img src="assets/powerbi-logo2.png" alt="Power BI" height="90">
 
 ### Databases  
-<img src="assets/Mysql.png" alt="Mysql" height="100">
-<img src="assets/sqlserver-logo.png" alt="SQL server" height="100"> 
+<img src="assets/Mysql.png" alt="Mysql" height="80">
+<img src="assets/sqlserver-logo.png" alt="SQL server" height="80"> 
 
 ### Other Tools  
 
-<img src="assets/excel-logo.png" alt="Excel" height="100">
-
-<img src="assets/google sheets-logo.png" alt="Google Sheets" height="100"> 
-
-<img src="assets/access-logo.png" alt="Access" height="100"> 
+<img src="assets/excel-logo.png" alt="Excel" height="80">
+<img src="assets/google sheets-logo.png" alt="GoogleSheets" height="80"> 
+<img src="assets/access-logo.png" alt="Access" height="80"> 
 
 
 
