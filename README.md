@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** transitioning from a
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="30">  
 
 ### Data Visualization  
-<img src="assets/powerbi-logo.png" alt="Power BI" height="60">
+<img src="assets/powerbi-logo2.png" alt="Power BI" height="60">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="30">  
 
 ### Databases  
