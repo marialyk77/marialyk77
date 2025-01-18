@@ -16,22 +16,28 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** transitioning from a
 ## 🌟 Skills & Tools
 
 ### Programming Languages  
-<img src="assets/python-logo.png" alt="Python" height="100">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="30">  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="30">  
+<img src="assets/python-logo.png" alt="Python" height="100">            
+
+<img src="assets/r-logo.png" alt="R" height="100">              
+
+<img src="assets/sql-logo.png" alt="SQL" height="100">
+
+
 
 ### Data Visualization  
 <img src="assets/powerbi-logo2.png" alt="Power BI" height="100">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="30">  
 
 ### Databases  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30">  
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="30">  
+<img src="assets/Mysql.png" alt="Mysql" height="100">
+<img src="assets/sqlserver-logo.png" alt="SQL server" height="100"> 
 
 ### Other Tools  
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30">  
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" alt="Google Sheets" height="30">  
-<img src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" alt="Access" height="30">  
+
+<img src="assets/excel-logo.png" alt="Excel" height="100">
+
+<img src="assets/google sheets-logo.png" alt="Google Sheets" height="100"> 
+
+<img src="assets/access-logo.png" alt="Access" height="100"> 
 
 
 
