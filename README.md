@@ -25,19 +25,18 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** transitioning from a
 ### Data Visualization  
 <div style="display: flex; align-items: center;">
   <img src="assets/powerbi-logo2.png" alt="Power BI" height="90">
-  <img src="assets/tableau-logo.png" alt="Tableau" height="90">
 </div>
 
 ### Databases  
 <div style="display: flex; align-items: center;">
-  <img src="assets/mysql-logo.png" alt="MySQL" height="80">
+  <img src="assets/Mysql.png" alt="MySQL" height="80">
   <img src="assets/sqlserver-logo.png" alt="SQL Server" height="80">
 </div>
 
 ### Other Tools  
 <div style="display: flex; align-items: center;">
   <img src="assets/excel-logo.png" alt="Excel" height="80">
-  <img src="assets/google_sheets-logo.png" alt="Google Sheets" height="80">
+  <img src="assets/google sheets-logo.png" alt="Google Sheets" height="80">
   <img src="assets/access-logo.png" alt="Access" height="80">
 </div>
 
