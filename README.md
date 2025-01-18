@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Maria Lykoudi!
 
-Welcome to my GitHub profile! I'm a **Junior Data Analyst** transitioning from a career in archaeology to data analytics. My journey is driven by a passion for uncovering meaningful insights through data and turning them into actionable decisions. 
+Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 
 ---
 
