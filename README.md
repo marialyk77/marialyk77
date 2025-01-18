@@ -16,12 +16,12 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst** transitioning from a
 ## 🌟 Skills & Tools
 
 ### Programming Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30">  
+<img src="assets/python-logo.png" alt="Python" height="100">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="30">  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="30">  
 
 ### Data Visualization  
-<img src="assets/powerbi-logo2.png" alt="Power BI" height="60">
+<img src="assets/powerbi-logo2.png" alt="Power BI" height="100">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="30">  
 
 ### Databases  
