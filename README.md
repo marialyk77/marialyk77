@@ -46,6 +46,12 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 ---
 
 ## 📊 Featured Projects
+
+### ☕ [Brewing Insights: Coffee Customer and Offer Performance Analysis](#)  
+- **Objective:** Analyze customer behavior and offer performance to uncover trends and insights.  
+- **Tools:** Power BI, Python  
+- **[Explore the project ➡️](#)** https://github.com/marialyk77/Coffee_Customer_Offer_Performance_Analysis.git
+  
 ### 🚀 [Air Flight Delay Analysis](#)
 - **Objective:** Analyze flight delay data to uncover patterns and provide actionable insights.
 - **Tools:** Python, Matplotlib, SQL
