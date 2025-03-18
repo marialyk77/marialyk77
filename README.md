@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 
 ### 🥑 [Avocado Sales Data](https://github.com/marialyk77/Avocado_Sales.git)
 - **Objective:** Analyze avocado sales data to uncover trends, purchasing patterns, and growth trajectories.
-- **Tools:** Python, Pandas, Matplotlib
+- **Tools:** Power BI
 - **[Explore the project ➡️](https://github.com/marialyk77/Avocado_Sales.git)**
 
 ### 📉 [World Economic Indicators & Greek Economic Crisis](#)
