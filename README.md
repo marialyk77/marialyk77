@@ -57,6 +57,11 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 - **Tools:** Python, Matplotlib, SQL
 - **[Explore the project ➡️](#)** https://github.com/marialyk77/Airline_Flight_Delay.git
 
+### 🥑 [Avocado Sales Data](https://github.com/marialyk77/Avocado_Sales.git)
+- **Objective:** Analyze avocado sales data to uncover trends, purchasing patterns, and growth trajectories.
+- **Tools:** Python, Pandas, Matplotlib
+- **[Explore the project ➡️](https://github.com/marialyk77/Avocado_Sales.git)**
+
 ### 📉 [World Economic Indicators & Greek Economic Crisis](#)
 - **Objective:** Investigate economic indicators during the Greek economic crisis.
 - **Tools:** Power BI, SQL
