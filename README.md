@@ -47,6 +47,11 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 
 ## 📊 Featured Projects
 
+### 🚆 [British Railway Performance Analysis](#)
+- **Objective:** Analyze the performance of UK railways, focusing on disruptions, passenger behavior, and revenue impact.
+- **Tools:** Power BI, Excel
+- **[Explore the project ➡️](https://github.com/marialyk77/British_Railway_Performance_Analysis.git)**
+
 ### ☕ [Brewing Insights: Coffee Customer and Offer Performance Analysis](#)  
 - **Objective:** Analyze customer behavior and offer performance to uncover trends and insights.  
 - **Tools:** Power BI, Python  
