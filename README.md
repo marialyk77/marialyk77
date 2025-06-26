@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Maria Lykoudi!
+# 💓 Hello, I'm Maria Lykoudi!
 
 Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 
@@ -46,6 +46,12 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
 ---
 
 ## 📊 Featured Projects
+
+### 💰 [Global Unicorn Landscape](https://github.com/marialyk77/Global_Unicorn_Landscape.git)
+- **Objective:** Explore the valuation, funding, ROI, and industry/geographic trends of unicorn companies worldwide.  
+- **Tools:** Power BI  
+- **Highlights:** Interactive dashboard with synchronized slicers, industry benchmarking, ROI & FTV metrics, and a custom Data Dictionary for model transparency.  
+- **[Explore the project ➡️](https://github.com/marialyk77/Global_Unicorn_Landscape.git)**
 
 ### 🚆 [British Railway Performance Analysis](#)
 - **Objective:** Analyze the performance of UK railways, focusing on disruptions, passenger behavior, and revenue impact.
