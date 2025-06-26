@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a **Junior Data Analyst**.
   <img src="assets/python-logo.png" alt="Python" height="70">
   <img src="assets/r-logo.png" alt="R" height="70">
   <img src="assets/sql-logo.png" alt="SQL" height="70">
-</div>
+</div> 
 
 ### Data Visualization  
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
